@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution URL](https://github.com/mcoria08/frntendmentor-qr-code-component-figma)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://courageous-gnome-14a090.netlify.app/)
 
 ## My process
 
