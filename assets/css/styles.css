@@ -17,7 +17,7 @@ body {
     line-height: 1.5;
 }
 p {
-    font-size: 15px;
+    font-size: 0.9375rem;
 }
 img {
     max-width: 100%;
@@ -31,48 +31,54 @@ img {
 
 .container{
   display: flex;
-  padding-top: 132px;
+  padding-top: 8.25rem;
 }
 
 .qrBox{
   background-color: var(--White);
-  width: 320px;
-  border-radius: 20px;
+  width: 20rem;
+  /*min-height: 100vh;
+display: grid;
+place-items: center;*/
+
+  border-radius: 1.25rem;
   margin: 0 auto;
-  padding:1rem;
+  padding: 1rem;
 }
   .qrBox__container{
     display: flex;
     justify-content: center;
-    border-radius: 10px;
+    border-radius: 0.625rem;
     background-color: var(--DarkBlue);
-    padding: 64px;
+    padding: 4rem;
   }
 
   .qrBox__image{
-    width:160px;
-    height:160px;
+    width:10rem;
+    height:10rem;
   }
 
   .qrBox__text{
     font-family: var(--fuente);
     text-align: center;
     font-style: normal;
+    margin:5px;
+    text-align: center;
   }
 
   .container__title{
     font-weight: 700;
-    font-size: 22px;
-    line-height: 28px;
+    font-size: 1.375rem;
+    line-height: 1.75rem;
     color: var(--DarkNavy);
-    padding:5px;
+    padding:0.3125rem;
 
   }
   .container__text{
     font-weight: 400;
-    font-size: 15px;
-    line-height: 19px;
-    letter-spacing: 0.1875px;
+    font-size: 0.9375rem;
+    line-height: 1.1875rem;
+    letter-spacing: 0.01171875rem;
     color: var(--Gray);
     width: 90%;
     display: inline-flex;
@@ -80,9 +86,9 @@ img {
 
 .attribution {
     font-family: var(--fuente);
-    font-size: 11px;
+    font-size: 0.6875rem;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 1.5625rem;
   }
 
   .attribution a {
