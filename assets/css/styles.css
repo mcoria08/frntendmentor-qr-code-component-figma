@@ -16,9 +16,7 @@ html {
 body {
     line-height: 1.5;
 }
-p {
-    font-size: 0.9375rem;
-}
+
 img {
     max-width: 100%;
 }
@@ -31,7 +29,7 @@ img {
 
 .container{
   display: flex;
-  padding-top: 8.25rem;
+  padding-top: 9.9rem;
 }
 
 .qrBox{
