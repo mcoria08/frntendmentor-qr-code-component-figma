@@ -34,48 +34,48 @@ img {
 
 .qrBox{
   background-color: var(--White);
-  width: 28.8rem;
+  width: 33.12rem;
   /*min-height: 100vh;
 display: grid;
 place-items: center;*/
-  border-radius:1.8rem;
+  border-radius: 2.07rem;
   margin: 0 auto;
-  padding: 1.44rem;
+  padding: 1.656rem;
 }
   .qrBox__container{
     display: flex;
     justify-content: center;
     border-radius: 0.9rem;
     background-color: var(--DarkBlue);
-    padding: 5.76rem;
+    padding: 6.624rem;
   }
 
   .qrBox__image{
-    width: 14.4rem;
-    height: 14.4rem;
+    width: 16.56rem;
+    height: 16.56rem;
   }
 
   .qrBox__text{
     font-family: var(--fuente);
     text-align: center;
     font-style: normal;
-    margin: 0.45rem;
+    margin: 0.5175rem;
     text-align: center;
   }
 
   .container__title{
     font-weight: 700;
-    font-size: 1.98rem;
-    line-height: 2.52rem;
+    font-size: 2.277rem;
+    line-height: 2.898rem;
     color: var(--DarkNavy);
-    padding: 0.45rem;
+    padding: 0.5175rem;
 
   }
   .container__text{
     font-weight: 400;
-    font-size: 1.35rem;
-    line-height: 1.71rem;
-    letter-spacing: 0.016875rem;
+    font-size: 1.5525rem;
+    line-height: 1.9665rem;
+    letter-spacing: 0.01940625rem;
     color: var(--Gray);
     width: 90%;
     display: inline-flex;
@@ -83,9 +83,9 @@ place-items: center;*/
 
 .attribution {
     font-family: var(--fuente);
-    font-size: 0.99rem;
+    font-size: 1.1385rem;
     text-align: center;
-    margin-top: 2.25rem;
+    margin-top: 2.5875rem;
   }
 
   .attribution a {
