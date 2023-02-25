@@ -34,48 +34,48 @@ img {
 
 .qrBox{
   background-color: var(--White);
-  width: 33.12rem;
+  width: 30.11rem;
   /*min-height: 100vh;
 display: grid;
 place-items: center;*/
-  border-radius: 2.07rem;
+  border-radius: 1.88rem;
   margin: 0 auto;
-  padding: 1.656rem;
+  padding: 1.5rem;
 }
   .qrBox__container{
     display: flex;
     justify-content: center;
-    border-radius: 0.9rem;
+    border-radius: 0.81rem;
     background-color: var(--DarkBlue);
-    padding: 6.624rem;
+    padding: 6.021rem;
   }
 
   .qrBox__image{
-    width: 16.56rem;
-    height: 16.56rem;
+    width: 15.05rem;
+    height: 15.05rem;
   }
 
   .qrBox__text{
     font-family: var(--fuente);
     text-align: center;
     font-style: normal;
-    margin: 0.5175rem;
+    margin: 0.47rem;
     text-align: center;
   }
 
   .container__title{
     font-weight: 700;
-    font-size: 2.277rem;
-    line-height: 2.898rem;
+    font-size: 2.07rem;
+    line-height: 2.63rem;
     color: var(--DarkNavy);
-    padding: 0.5175rem;
+    padding: 0.47rem;
 
   }
   .container__text{
     font-weight: 400;
-    font-size: 1.5525rem;
-    line-height: 1.9665rem;
-    letter-spacing: 0.01940625rem;
+    font-size: 1.41rem;
+    line-height: 1.78rem;
+    letter-spacing: 0.017642045454545rem;
     color: var(--Gray);
     width: 90%;
     display: inline-flex;
@@ -83,9 +83,9 @@ place-items: center;*/
 
 .attribution {
     font-family: var(--fuente);
-    font-size: 1.1385rem;
+    font-size: 1.035rem;
     text-align: center;
-    margin-top: 2.5875rem;
+    margin-top: 2.35rem;
   }
 
   .attribution a {
